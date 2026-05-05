@@ -20,10 +20,8 @@ The project is based on Scenario 3: Secure Document Management System. The syste
 
 ```bash
 javac -d out src/sdms/*.java
-java -cp out sdms.SdmsServer
+java -cp out sdms.Main
 
-Open:
-http://localhost:8080
 
 Demo Login Details
 Email: engineer@techbuild.local
